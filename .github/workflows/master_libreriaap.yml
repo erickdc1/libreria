@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'LibreriaAp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5513EB3BEFE04C659B7CF0259F86A54E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F9C00A059A81449582F257864EFDEC4A }}
           package: '*.jar'
