@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'libros'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5267AE8B34974F8886BE5B29878D435E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FD6412E6C94D4A21B10263398C0CA51A }}
           package: '*.jar'
